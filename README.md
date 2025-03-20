@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Oii! Eu sou a Amanda
 
-<!--
-**Amandarlima/Amandarlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação | 💻 Desenvolvedora em Java e C++ | 🌐 Aspirante a Fullstack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+Apaixonada por tecnologia e desenvolvimento de software, estou sempre buscando aprender e evoluir. Tenho interesse em desenvolvimento Fullstack, IoT e sistemas embarcados.
+
+---
+
+📧 **Email**: amandaribaslima@hotmail.com
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,py,cpp,aws)  
+ 
+
+
