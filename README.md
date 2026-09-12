@@ -1,6 +1,6 @@
 # Oi! Eu sou a Amanda 👋
 
-**Estudante de Engenharia da Computação** em Curitiba, PR. Desenvolvo software do embarcado à web: visão computacional, IoT e aplicações fullstack.
+**Estudante de Engenharia da Computação**. Desenvolvo software do embarcado à web: visão computacional, IoT e aplicações fullstack.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-ribas-lima-2a821a203)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amandaribaslima@hotmail.com)
