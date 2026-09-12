@@ -38,12 +38,3 @@ Também tenho jogos em Java com POO ([Truco](https://github.com/Amandarlima/Truc
 **Embarcados e ferramentas**
 
 ![Ferramentas](https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,arduino,docker,aws,git,vscode)
-
----
-
-## 📊 GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amandarlima&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandarlima&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
